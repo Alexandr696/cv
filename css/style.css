@@ -181,6 +181,7 @@ a:visited {
     padding: 15px 0 10px;
     outline:  none;
     font-family: inherit;
+    margin-bottom: 15px;
 }
 
 .row {
